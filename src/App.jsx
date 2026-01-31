@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import './Index.css'
 import Header from './components/Header'
 
 function App() {
